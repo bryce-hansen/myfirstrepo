@@ -6,3 +6,5 @@
 2. grapes
 3. bananas
 4. ~carrot~
+
+*** a carrot is not a fruit ***
