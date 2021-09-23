@@ -7,4 +7,4 @@
 3. bananas
 4. ~carrot~
 
-*** a carrot is not a fruit ***
+***a carrot is not a fruit***
